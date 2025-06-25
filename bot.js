@@ -2,7 +2,7 @@ const {
   Client, GatewayIntentBits, SlashCommandBuilder, REST, Routes, Collection
 } = require('discord.js');
 
-const TOKEN = 'MTM4NjA3MjQ0NTY4NDgxMzg2NA.GIcmGk.W5FAevM4mcOL04Nr_v-T7r4aDvdWIS9DmuaKXA';
+const TOKEN = 'put your bot token here';
 const CLIENT_ID = '1386072445684813864';
 const GUILD_ID = '1374511524273459250';
 
